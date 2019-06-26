@@ -9,10 +9,9 @@ package projeto_teste;
  *
  * @author AlanErick
  */
-public class Formulas implements Numeros{
+public class Formulas{
 
     // para singleton private static Formulas instancia;
-    public Numeros referencia;
     public int primeiro;
     public int segundo;
     private int resultado;
